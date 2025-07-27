@@ -34,10 +34,10 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 
 ## Anexos
 
-https://aws.amazon.com/pt/s3/
-https://aws.amazon.com/pt/ec2/
-https://aws.amazon.com/pt/lambda/
----
+- https://aws.amazon.com/pt/s3/
+- https://aws.amazon.com/pt/ec2/
+- https://aws.amazon.com/pt/lambda/
+
 
 Assinatura do Responsável pelo Projeto:  
 **Júlio César**  
